@@ -25,4 +25,6 @@ A* Path Finding algorithm is written in Python using PyGame.
 
 
 
+# GIF of how the program is executed.
+
 ![image](https://github.com/azaruddinaskarali/A-Star-Path-Finder/blob/main/68747470733a2f2f63732e637375622e6564752f7e6a76696c6c6173656e6f72722f496d616765732f73686f7274657374706174682e676966.gif)
