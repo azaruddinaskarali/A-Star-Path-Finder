@@ -9,7 +9,7 @@ A* Path Finding algorithm is written in Python using PyGame.
 1.Left-click to select a node which will represent the starting node
 
 
-2.Right-click (shift + left-click) to select a node which will represent the ending node
+2. Left-click) to select a node which will represent the ending node
 
 
 3.Press 'space' to let the algorithm find the shortest path between the two nodes
@@ -21,7 +21,7 @@ A* Path Finding algorithm is written in Python using PyGame.
 5.Press 'c' to clear the path and resume clicking on nodes
 
 
-6.If no path is possible, no path is highlighted and a message appears on the top of the window
+6.If no path is possible, No path is highlighted.
 
 
 
