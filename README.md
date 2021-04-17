@@ -22,3 +22,7 @@ A* Path Finding algorithm is written in Python using PyGame.
 
 
 6.If no path is possible, no path is highlighted and a message appears on the top of the window
+
+
+
+![image](https://github.com/azaruddinaskarali/Median-Housing-Prices-Detection/blob/main/th.jfif)
